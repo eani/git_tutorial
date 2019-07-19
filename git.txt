@@ -1,3 +1,15 @@
 git init
 git add .
 git commit -m "message of the commit"
+<<<<<<< HEAD
+=======
+git push
+
+-------- Branch in GIt -----------
+git branch 
+git branch branchName
+git checkout branchName
+git checkout -b branchName
+
+----------------- Merge -----------
+>>>>>>> footer
