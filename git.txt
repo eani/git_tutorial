@@ -2,6 +2,11 @@ git remote add <name> <url>
  git push <name>
 
 
+git remote add origin https://github.com/eani/newbake.git
+git branch -M main
+git push -u origin main
+
+
 git init
 git add .
 git commit -m "message of the commit"
