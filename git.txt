@@ -1,3 +1,7 @@
+git remote add <name> <url>
+ git push <name>
+
+
 git init
 git add .
 git commit -m "message of the commit"
